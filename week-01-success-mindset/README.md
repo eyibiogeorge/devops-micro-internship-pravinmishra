@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Learning is a lifelong process, and every new skill or piece of knowledge you gain today becomes a foundation for greater opportunities tomorrow. Seeking mentorship is important because experienced mentors provide guidance, share valuable insights, and help you avoid common mistakes, allowing you to grow faster in your career. Discipline is equally essential, as it helps you stay focused, consistent, and committed to your goals. Whether in your career, sports, or daily life, discipline enables you to develop good habits and achieve long-term success.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Commitment and perseverance lead to success
 
 ### Evidence from my life
 
-Add your answer here...
+I started my career in 2015 at an Internet Service Provider (ISP) company. From the beginning, I understood the importance of earning a CCNA certification because it is a valuable credential for networking professionals. However, I kept postponing my studies due to procrastination and other commitments. During the COVID-19 pandemic, I decided to make better use of my time and fully committed myself to preparing for the certification. Through consistent study and determination, I successfully earned my CCNA certificate in December 2020. This experience taught me that with commitment and discipline, it is possible to achieve goals that may have seemed difficult or delayed.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Good health is the foundation of a successful and productive life
 
 ### Evidence from my life
 
-Add your answer here...
+Some time ago, I experienced serious health challenges that changed my perspective on life. Although I had money, I realized that wealth alone could not guarantee good health or restore it instantly. The experience taught me that health is far more valuable than material possessions. After I recovered, I made a conscious decision never to take my health for granted. Since then, I have placed greater importance on maintaining a healthy lifestyle and appreciating the gift of good health every day.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Love and being loved bring happiness and fulfillment
 
 ### Evidence from my life
 
-Add your answer here...
+Life is far more meaningful when it is filled with love. One of the greatest blessings is to be surrounded by people who genuinely care for and support you. When I look around, I feel deeply grateful because I am blessed with the love of my wife, children, and even my colleagues at work. Their kindness, encouragement, and affection remind me that true happiness is not measured by material possessions but by the meaningful relationships we build. Their love inspires me to appreciate every moment and to show the same love and care to others.
 
 ---
 
@@ -135,11 +135,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+What does your version 2.0 look like?
 
 ### Public Link
 
-Paste your link here:
+DevOps engineer known for his expertise in networking, cloud computing, and infrastructure automation. Building on his experience in Linux, GitHub, CI/CD, Agentic AI, Docker, and Kubernetes, he led successful projects, published technical content, and developed a strong GitHub portfolio. He mentored aspiring engineers, contributed to the technology community through training and knowledge sharing, and inspired others through his commitment to continuous learning, discipline, and leadership. His journey demonstrated how perseverance, innovation, and dedication could transform a career into one of lasting impact.
 
 `__________________________`
 
@@ -173,7 +173,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+NO
 
 ---
 
@@ -199,16 +199,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. The 7 Habits of Highly Effective People — Stephen R. Covey
+3. Deep Work — Cal Newport
+4. The Psychology of Money — Morgan Housel
+5. The Richest Man in Babylon — George S. Clason
+6. Think and Grow Rich — Napoleon Hill
+7. The First 90 Days — Michael D. Watkins
+8. Co-Intelligence: Living and Working with AI — Ethan Mollick
+9. Outlive: The Science and Art of Longevity — Peter Attia
+10. Superagency: What Could Possibly Go Right with Our AI Future
 
 ---
 
@@ -237,16 +237,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Daily studies
+* Daily Exercises
+* weekly complition of project
+* Sleep very well
+* Eat balance diet
+* regular medical checks
+* More online business physibility
+* Read books
+* proper documentation
+* Focus on project
 
 ---
 
@@ -272,7 +272,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +290,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon - Fri: 3am - 4am
+Sat: DMI session
+un: Weekly review
 
 ---
 
@@ -298,11 +300,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon - Fri 3am - 4am
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2-3 sessions per week
 
 ---
 
@@ -316,7 +318,8 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No phone during studies
+No social media
 
 ---
 
@@ -324,19 +327,19 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+A positive mindset is like fertile land
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+writing essay
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Mindset system
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+[Paste your LinkedIn post link here:](https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ)
 
 `__________________________`
 
@@ -344,8 +347,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [**ADD LINK HERE**](https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ)  
+
 
 ---
 
