@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_list_of_subagents.png)
 
 ---
 
@@ -34,19 +34,20 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+cost checks doesn't need deep reasoning. It scans resources check price classes compare storage tiers.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+security auditor does not have Write in its tools list because it focuses on analysis, checklist and a structured output. It analyze your file and report it and remember what it did last time.
+
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+Inherit subagent uses whatever model our main session is running on
 
 ---
 
@@ -54,13 +55,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_2_security_auditor.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_3_cost_optimizer.png)
 
 ---
 
@@ -74,13 +75,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_4_delegation_security_auditor.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_5_security_audit_report.png)
 
 ---
 
@@ -94,7 +95,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![](./screenshots/Assignment_4_6_cost_optimization_report.png)
 
 ---
 
@@ -110,7 +111,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/eyibiogeorge/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 

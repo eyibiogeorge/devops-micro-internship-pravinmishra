@@ -20,7 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-[](./screenshots/assignment_2_1_nodejs_&&_npm_versions.png)
+![](./screenshots/assignment_2_1_nodejs_&&_npm_versions.png)
 
 ---
 
@@ -34,7 +34,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-[](./screenshots/assignment_2_2_nginx_running.png)
+![](./screenshots/assignment_2_2_nginx_running.png)
 
 ---
 
@@ -48,7 +48,7 @@ Clone the project repository and verify the project files are pre
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-[](./screenshots/assignment_2_3_clone_react_app.png)
+![](./screenshots/assignment_2_3_clone_react_app.png)
 
 ---
 
@@ -62,7 +62,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-[](./screenshots/assignment_2_4_app.js.png)
+![](./screenshots/assignment_2_4_app.js.png)
 
 ---
 
@@ -76,7 +76,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-[](./screenshots/assignment_2_5_npm_build.png)
+![](./screenshots/assignment_2_5_npm_build.png)
 
 ---
 
@@ -90,7 +90,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-[](./screenshots/assignment_2_6b_build_react_into_nginx_web_root.png)
+![](./screenshots/assignment_2_6b_build_react_into_nginx_web_root.png)
 
 ---
 
@@ -104,13 +104,13 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-[](./screenshots/assignment_2_7_is_active_nginx.png)
+![](./screenshots/assignment_2_7_is_active_nginx.png)
 
 ---
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-[](./screenshots/assignment_2_8_default_nginx_server.png)
+![](./screenshots/assignment_2_8_default_nginx_server.png)
 
 ---
 
@@ -124,13 +124,13 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-[](./screenshots/assignment_2_9_public_IP.png)
+![](./screenshots/assignment_2_9_public_IP.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-[](./screenshots/assignment_2_10_browser_output.png)
+![](.\\screenshots\\assignment_2_10_browser_output.png")
 
 ---
 
