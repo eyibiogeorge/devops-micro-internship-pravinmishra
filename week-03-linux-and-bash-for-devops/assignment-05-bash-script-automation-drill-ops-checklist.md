@@ -414,7 +414,11 @@ he final script modularizes the code by organizing it into separate functions, w
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/george-eyibio-58207286_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8-%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%91%9D%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%A1-4-%F0%9D%97%95%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B5-%F0%9D%97%A6-share-7484541021897293824-MxxW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

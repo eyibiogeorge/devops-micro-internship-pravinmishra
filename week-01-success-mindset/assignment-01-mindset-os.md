@@ -131,7 +131,7 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
@@ -141,7 +141,7 @@ What does your version 2.0 look like?
 
 DevOps engineer known for his expertise in networking, cloud computing, and infrastructure automation. Building on his experience in Linux, GitHub, CI/CD, Agentic AI, Docker, and Kubernetes, he led successful projects, published technical content, and developed a strong GitHub portfolio. He mentored aspiring engineers, contributed to the technology community through training and knowledge sharing, and inspired others through his commitment to continuous learning, discipline, and leadership. His journey demonstrated how perseverance, innovation, and dedication could transform a career into one of lasting impact.
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -341,7 +341,7 @@ Mindset system
 
 [Paste your LinkedIn post link here:](https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ)
 
-`__________________________`
+`Add your URL here`
 
 ---
 
