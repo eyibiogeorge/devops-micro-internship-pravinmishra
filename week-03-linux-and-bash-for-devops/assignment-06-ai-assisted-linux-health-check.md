@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+![](./screenshots/assignment_6_1_1_systemctl_ss_curl.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+![](./screenshots/assignment_6_1_2_find.png)
 
 ---
 
@@ -36,19 +36,20 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+`tcp    LISTEN    0    511    0.0.0.0:80    0.0.0.0:*`
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+` HTTP/1.1 200 OK`
+` Server: nginx/1.28.3 (Ubuntu)`
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+Capturing a healthy baseline before simulating an incident is important because it establishes the system's normal operating state. It provides a reference for comparing system behavior before, during, and after the incident. This helps identify the impact of the failure, speeds up troubleshooting, and confirms that the system has been fully restored after recovery. A healthy baseline also ensures that any issues observed during testing are caused by the simulated incident and not by pre-existing problems.
 
 ---
 
@@ -62,7 +63,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-Add your screenshot here.
+![](./screenshots/assignment_6_2_1_claude_md.png)
 
 ---
 
@@ -72,19 +73,27 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
-
+Claude should receive project-specific operational rules so it understands the project's standards, requirements, and operational procedures. This helps it generate consistent and accurate responses, reduces errors, improves security by following safe practices, and ensures that its recommendations align with the project's workflow. Providing these rules enables Claude to assist more effectively with automation, troubleshooting, and system administration tasks.
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human is required to execute the recovery command because recovery actions can have significant effects on a production system. Human approval ensures that the correct command is reviewed and executed intentionally, reducing the risk of accidental downtime, data loss, or incorrect changes. This human oversight improves safety, accountability, and reliability during incident recovery.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule is the last one under Safety Rules in CLAUDE.md:
+
+▎ - Do not claim a root cause unless the report contains supporting evidence.
+
+That's what prevents an unsupported diagnosis — Claude may only assert a root cause when the Bash report contains evidence backing it. It's reinforced by two related rules:
+
+- "Use only the Bash report as the primary source of incident evidence" — limits diagnosis to what the report actually shows.
+- Output Rule #3, "Exact evidence from the report" — forces every conclusion to be tied to quoted evidence.
+
+In this incident, that rule is why the cause was stated as "cleanly stopped" — the journal lines (Stopping → Deactivated successfully → Stopped) directly support it, rather than guessing at a crash or config error the report showed no evidence of.
 
 ---
 
@@ -98,7 +107,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+![](./screenshots/assignment_6_3_1_claude_plans.png)
 
 ---
 
@@ -108,13 +117,13 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the Bash triage script (scripts/linux-triage.sh) running and writing its evidence to a report file — in this incident, reports/incident-failure-report.txt.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+No, it was stated in the rule
 
 ---
 
