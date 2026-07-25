@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 â€” VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-![Claude Version](./screenshots/3.%20fork_project_overview.png)
+![](./screenshots/3.%20fork_project_overview.png)
 
 ---
 
@@ -77,11 +77,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD
 `https://github.com/eyibiogeorge/Ultimate-Agentic-DevOps-with-Claude-Code.git`
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 

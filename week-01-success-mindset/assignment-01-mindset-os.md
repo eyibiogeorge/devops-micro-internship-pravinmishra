@@ -339,16 +339,13 @@ Mindset system
 
 ### LinkedIn Post
 
-[Paste your LinkedIn post link here:](https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ)
-
-`Add your URL here`
+[Paste your LinkedIn post link here:https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ]
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: [**ADD LINK HERE**](https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ)  
-
+- LinkedIn Post URL: [**https://www.linkedin.com/in/george-eyibio-58207286/**]
 
 ---
 
