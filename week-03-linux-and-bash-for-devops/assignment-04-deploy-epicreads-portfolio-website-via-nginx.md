@@ -120,13 +120,13 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/george-eyibio-58207286_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%B8-%F0%9D%9F%AC%F0%9D%9F%AF-%F0%9D%91%9D%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%A1-3-%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%86%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-share-7483787116074762241-0_A1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+`![](./screenshots/Assignment_4_linkedin_post.png)`
 
 ---
 
@@ -141,18 +141,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [✅] Screenshot 0: Nginx service status (active/running)
+- [✅] Screenshot 1: Website files downloaded and extracted
+- [✅] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [✅] Screenshot 3: Nginx configuration test successful
+- [✅] Screenshot 4: Website files deployed to /var/www/html
+- [✅] Screenshot 5: Public IP retrieved
+- [✅] Screenshot 6: Live website accessible in browser with footer details
+- [✅] Screenshot 7: Nginx enabled on boot
+- [✅] Screenshot 8: Local HTTP response returns 200 OK
+- [✅] LinkedIn post published and URL submitted
+- [✅] Full Name visible in all required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
