@@ -128,13 +128,13 @@ Paste your Pull Request URL here:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/george-eyibio-58207286_%F0%9D%97%9D%F0%9D%98%82%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%98%82%F0%9D%97%BD-%F0%9D%97%BA%F0%9D%98%86-%F0%9D%97%BC-share-7487269633981571072-lUjA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ`
 
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+![](./screenshots/Assignment_5_linkedin_post.png).
 
 ---
 
