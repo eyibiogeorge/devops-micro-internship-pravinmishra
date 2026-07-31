@@ -131,10 +131,10 @@ Week 04 → Git & GitHub
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ✅ Not Started | ✅ Solved | https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ | https://medium.com/p/b2863eaecbc6/edit |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Solved | ✅ Solved | https://www.linkedin.com/posts/effiong-eyibio-58207286_devops-agenticai-cloudcomputing-share-7478919387001913344-2_VA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ |https://medium.com/@eyibiogeorge/building-your-mindset-os-the-foundation-of-everything-95df45005051?postPublishedType=initial
+| 02 | Agentic AI with Claude Code | ✅ Solved | ✅ Solved | — | https://medium.com/@eyibiogeorge/week-2-from-ai-assistant-to-agentic-workflow-building-intelligence-into-my-development-process-f4e39140e97d?postPublishedType=initial |
+| 03 | Linux & Bash for DevOps | ✅ Solved | ✅ Solved | — | https://medium.com/@eyibiogeorge/week-3-from-cloud-theory-to-linux-reality-deploying-applications-and-automating-operations-c220c2cfebee |
+| 04 | Git & GitHub | ✅ Solved | ✅ Solved | — | https://medium.com/@eyibiogeorge/week-4-git-mastery-and-open-source-collaboration-building-a-professional-development-identity-a473210cebc4 |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
