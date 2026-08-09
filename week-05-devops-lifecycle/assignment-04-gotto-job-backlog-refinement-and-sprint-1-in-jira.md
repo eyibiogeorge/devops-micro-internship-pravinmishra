@@ -200,13 +200,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/george-eyibio-58207286_shipped-my-first-sprint-as-a-scrum-team-share-7492359177772752896--GiE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIpp7IB2uLQWBwAPAfjOt0Din_uqvLdTAQ`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![](./screenshots/linkedinpost04.png)
 
 ---
 
