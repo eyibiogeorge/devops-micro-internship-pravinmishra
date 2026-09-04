@@ -26,7 +26,7 @@ Generate an API token from your Atlassian account that the MCP server will use t
 
 Why does the MCP server need your site URL and account email in addition to the token?
 
-Add y
+
 
 ---
 
@@ -40,7 +40,7 @@ Create or update `.mcp.json` at your project root with a Jira MCP server block, 
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the Jira server configuration
 
-Add your screenshot here.
+![](./screenshots/Assignment-0502.png)
 
 ### Notes You Must Write (Very Important):
 
@@ -60,7 +60,7 @@ Add your Jira site URL, account email, and API token to `.claude/settings.local.
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section, with the actual token value blurred or covered
 
-Add your screenshot here.
+![](./screenshots/Assignment-0503.png)
 
 ### Notes You Must Write (Very Important):
 
